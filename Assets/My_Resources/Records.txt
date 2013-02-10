@@ -1,0 +1,53 @@
+None 900
+ABC 300
+aa 0
+bb 0
+zf 0
+hfh 100
+aas 0
+ivan 100
+Go 0
+aga 0
+ku 100
+15 100
+bb 0
+Type your name here... 0
+Type your name here... 0
+Type your name here... 0
+7 0
+Type your name here... 0
+Type your name here... 0
+Type your name here... 0
+Type your name here... 0
+Type your name here... 0
+Type your name here... 0
+Type your name here... 0
+Prometheus 0
+Unknown_Player 0
+Watson 0
+Unknown_Player 0
+Unknown_Player 0
+1616136136136316136136136 0
+Unknown_Player 0
+abcdefghjk1234567890 300
+ 1235346347373743734734737 0
+bbbbbbbbbbbbbbbbbbbbbbb 300
+11111111111111111111111111111111111111111 100
+Unknown_Player 0
+Unknown_Player 0
+Who_is_new_winner 0
+Unknown_Player 0
+Unknown_Player 400
+Unknown_Player 0
+Unknown_Player 0
+Unknown_Player 0
+Unknown_Player 0
+Unknown_Player 100
+Unknown_Player 0
+Ded 350
+Unknown_Player 0
+Unknown_Player 0
+Unknown_Player 0
+John 750
+Winner 2650
+Empty 450
